@@ -8,7 +8,7 @@ The NavLink 2 wireless NMEA2000 Gateway is designed to allow an Application Deve
 
 NavLink 2 is based on our existing iKonvert wired NMEA2000 gateway and they share the exact same serial protocol, so once you support one device, supporting the second is easy.
 
-<img src="https://github.com/digitalyacht/NavLink2/blob/master/Images/NavLink2_Home_V1-46.png" width=70%>
+<img src="https://github.com/digitalyacht/NavLink2/blob/master/Images/NavLink2_RAW_View_Data.gif" width=70%>
 
 Included in this repository are:-
 
