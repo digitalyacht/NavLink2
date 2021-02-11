@@ -14,7 +14,7 @@ Included in this repository are:-
 
 *1.  Windows executable of a NavLink 2 Configuration Tool*
 
-*2.  The latest NavLink 2 firmware (1.50)*
+*2.  The latest NavLink 2 firmware, featuring new web interface (2.00)*
 
 *3.  The NavLink 2 Developers Guide V1.04 (pdf)*
 
