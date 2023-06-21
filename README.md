@@ -22,4 +22,4 @@ Included in this repository are:-
 
 No special libraries are required to integrate NavLink 2 and it supports TCP or UDP connections.
 
-A full developer's guide for iKonvert, much of which is applicable to NavLink 2 is provided in the [associated Wiki](https://github.com/digitalyacht/NavLink 2/wiki).
+A full developer's guide for iKonvert, much of which is applicable to NavLink 2 is provided in the [associated Wiki](https://github.com/digitalyacht/iKonvert/wiki).
